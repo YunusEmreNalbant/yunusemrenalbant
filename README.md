@@ -3,6 +3,5 @@ Hi 👋
 I'm Yunus, a software developer from Istanbul / Turkey.
 I am interested in Javascript (React JS, Native) and PHP (Laravel).
 
-
-
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?YunusEmreNalbant" frameborder="0"></iframe>
+img align="center" src="https://github-readme-stats.vercel.app/api?username=YunusEmreNalbant&show_icons=true&count_private=true&theme=dracula&hide_title=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YunusEmreNalbant&layout=compact" />
