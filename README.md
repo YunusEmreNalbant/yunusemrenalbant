@@ -22,5 +22,9 @@ I am willing to develop myself in Javascript-based libraries and frameworks.
 
 </p>
 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=YunusEmreNalbant&show_icons=true&count_private=true&theme=dracula&hide_title=true" />
+## Contact me
+<p>
+  <a href="mailto:yunus.nalbant0@gmail.com"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
+  <a href="https://www.linkedin.com/in/yunus-emre-nalbant/"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+  <a href="https://stackoverflow.com/users/11672443/yunus-emre-nalbant"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg"/></a>
+</p>
