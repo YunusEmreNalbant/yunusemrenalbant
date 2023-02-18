@@ -2,12 +2,7 @@ I am a hands-on full stack developer and consultant with 3 years of experience. 
 
 
 Computer Skills Include
-<ul>
-  <li>asd<li>
-    <li>asd<li>
-  <li>asd<li>
 
-<ul>
 ● Mostly Laravel, React.js, React Native, Javascript, JQuery
 ● Knowledge for Docker, Redis, Queues, Socket
 ● Versioning Systems such as GIT
