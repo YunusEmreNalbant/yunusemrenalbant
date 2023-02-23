@@ -9,5 +9,5 @@ Computer Skills Include
 - Database programming such as PostgreSql, MySql
 - I have worked with Web Services such as REST, SOAP
 - Approaches such as SOLID, OOP, Design Pattern
-- Approaches such as Bootstrap, Tailwind CSS, Ant Design
+- Approaches such as CSS, SCSS, Bootstrap, Tailwind CSS, Ant Design
 - I have knowledge about AGILE, SCRUM
