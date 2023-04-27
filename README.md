@@ -6,11 +6,11 @@ Computer Skills Include
 <li>Experience in SOLID, OOP and Design Patterns, code reviewing and optimizing</li>
 <li>Database programming such as PostgreSQL, MySQL, MongoDB </li>
 <li>I worked with Web service methods such as REST, SOAP</li>
+<li>Experience with Docker </li>
 <li>Experience in converting Figma design into HTML, CSS, React.js code</li>
 <li>Experience in responsive web design</li>
-<li>Experience with React Testing Library</li>
+<li>Experience with React Testing Library and PHPUnit</li>
 <li>Versioning systems such as GIT (GitHub, Gitlab, Bitbucket)</li>
-<li>Experience with Docker </li>
 <li>Experiences with CSS, SASS, Bootstrap, Tailwind CSS, Styled Component</li>
 <li>I have knowledge about AGILE, SCRUM</li>  
 </ul>
